@@ -1,0 +1,4 @@
+Sources Referenced:
+- https://akhilbattula.medium.com/android-camerax-java-example-aeee884f9102 (Public post, for using android's new CameraX library)
+- https://github.com/GoogleCloudPlatform/cloud-vision/blob/master/android/CloudVision/app/src/main/java/com/google/sample/cloudvision/MainActivity.java (Public example, for accessing and using Google Cloud's Vision API on mobile)
+- https://stackoverflow.com/questions/6533942/adding-gif-image-in-an-imageview-in-android ('pl.droidsonroids.gif:android-gif-drawable:1.2.17' Used library for quickly displaying animated .gif images)
